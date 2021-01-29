@@ -1,7 +1,7 @@
 {
-  "name": "tdd-typescript",
-  "version": "1.0.0",
-  "description": "skeleton to work with typescript and jest - TDD by: Victor Naranjo",
+  "name": "api-snk",
+  "version": "0.1",
+  "description": "Shingeki no kyojin universe api: Victor Naranjo",
   "main": "index.js",
   "scripts": {
     "lint": "prettier --write ./src/**/*.{ts,json,md} ./_tests_/**/*.ts",
@@ -14,14 +14,15 @@
     "testsc": "cross-env NODE_ENV=test npx jest --coverage --detectOpenHandles"
   },
   "keywords": [
-    "tests",
-    "jest",
-    "tdd",
+    "shingeki no kyojin",
+    "api",
+    "universe",
     "typescript",
-    "node"
+    "node",
+    "json"
   ],
   "author": "Victor Naranjo",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/cors": "^2.8.6",
     "@types/express": "^4.17.6",

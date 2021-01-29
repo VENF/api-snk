@@ -1,0 +1,96 @@
+{
+  "name": {
+    "japones": "エレン・イェーガー",
+    "romaji": "Eren Yēgā",
+    "principal": "Eren Jaeger"
+  },
+  "debut": {
+    "manga": "capitulo 1",
+    "anime": "capitulo 1"
+  },
+  "information": {
+    "birth": "30 de marzo",
+    "age": ["15 (año 850)", "16 (año 851)", "17 (año 852", "19 (año 854)"],
+    "gender": "Masculino",
+    "species": "Humano/Titán Cambiante",
+    "state": "vivo",
+    "height": ["170cm (año 850)", "183cm (año 854)", "15m (forma de titán)"],
+    "weight": "63 kg",
+    "classification": "5°",
+    "occupation": "Soldado de élite",
+    "affiliation": ["Cuerpo de Exploración", "Tropa de Reclutas 104"]
+  },
+  "rank": {
+    "grade": "A"
+  },
+  "statistics": {
+    "battleskill": 9,
+    "initiative": 10,
+    "strategy": 3,
+    "teamwork": 5,
+    "distinguished": {
+      "type":"Temperament",
+      "range": 10
+    }
+  },
+  "family": {
+    "jaeger": [
+      {
+        "name": "Grisha Jaeger",
+        "state": "Fallecido",
+        "type": "Padre"
+      },
+      {
+        "name": "Carla Jaeger",
+        "state": "Fallecida",
+        "type": "Madre"
+      },
+      {
+        "name": "Zeke Jaeger",
+        "state": "vivo",
+        "type": "Medio Hermano"
+      },
+      {
+        "name": "Faye Jaeger",
+        "state": "Fallecida",
+        "type": "Tia"
+      },
+      {
+        "name": "Dina Jaeger",
+        "state": "Fallecida",
+        "type": "Madrastra"
+      },
+      {
+        "name": "Mikasa Ackermanr",
+        "state": "Viva",
+        "type": "Hermanastra"
+      }
+    ]
+  },
+  "weapons": [
+    "Equipo de Maniobras Tridimensionales",
+    "Cuchillas"
+  ],
+  "titans":[
+    {
+      "name":"Titán de Ataque",
+      "bearer": "Eren Jaeger - (845-actual)",
+      "predecessor": "Grisha Jaeger - (832-845)",
+      "Successor": "Nadie"
+    }
+  ],
+  "biography": "Eren Jaeger (エレン・イェーガー Eren Yēgā?) es el protagonista principal de la serie. Es el único hijo de Grisha y Carla Jaeger. A su vez, es el medio hermano menor de Zeke Jaeger, el hermano adoptivo de Mikasa Ackerman y un Titán Cambiante, siendo portador del Titán de Ataque (進撃の巨人 Shingeki no Kyojin?), el Titán Fundador (始祖の巨人 Shiso no Kyojin?) y el Titán Martillo de Guerra (戦槌の巨人 Sentsui no Kyojin?). Eren es oriundo del Distrito Shiganshina, una ciudad situada en el exterior de la Muralla María. Junto con su hermana adoptiva Mikasa y su mejor amigo Armin Arlert, deciden entrar en la milicia. Tras haber presenciado la aniquilación de su pueblo y la muerte de su madre a manos de los titanes. Permanece en él una venganza personal hacia los titanes, siendo su objetivo la eliminación de todos y cada uno de ellos debido a que mataron a su madre. Tras haber encontrado los secretos ocultos en el sótano de su padre, Eren se enteró del origen de los titanes y de la verdadera historia del mundo, descubriendo de esa forma que su verdadero enemigo es en realidad el hombre. Desde aquel entonces, Eren tomó el objetivo de eliminar a aquella amenaza para finalmente poder hallar la libertad.",
+  "note": "«Eren Jaeger, aunque carece de algún talento excepcional, mejoró sus calificaciones a través de una gran perseverancia, además posee una excepcional determinación.»",
+  "quotes": [
+    "¡Mataré a los titanes, a todos y cada uno de ellos!",
+    "Aunque estamos al borde de la muerte, y dejamos morir a algunos de nuestros compañeros, todos siguen mirando hacia delante, porque confían en él, lo dejan todo en sus manos.",
+    "¡Lucha!¡Tienes que luchar! Si no luchas, morirás. Si ganas, sobrevivirás, ¡No puedes ganar si no luchas!",
+    "Si piensas que la realidad es solo vivir cómodamente y seguir tus propios caprichos, ¿Cómo puedes atreverte a llamarte a ti mismo soldado?",
+    "Puede que no tenga el talento, pero ¡Tengo la determinación!",
+    "Los humanos somos débiles, y solo por eso no podemos hacer nada más que llorar.",
+    "¿Por qué quiero unirme al Cuerpo de Exploración?¿Por qué quiero salir al exterior? Es porque... ¡Yo nací en este mundo y tengo derecho a observarlo!",
+    "Una damisela que puede hacer que un gran hombre gire en el aire, seguramente no puede ser llamada 'débil'.",
+    "Al otro lado de las murallas, está el océano. Y al otro lado del océano... está la libertad. Eso es lo que siempre creí... pero estaba equivocado. Son enemigos los que están al otro lado del océano. Es exactamente como lo vi en los recuerdos de mi padre... ¿Verdad? Esos enemigos al otro lado de aquí... si los matamos a todos, ¿Significa que... seremos libres?",
+    "Si alguien está dispuesto a quitarme mi libertad, no dudaré en quitarle la suya."
+  ]
+}

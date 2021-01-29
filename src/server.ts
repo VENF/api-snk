@@ -1,7 +1,7 @@
 import express, { Application } from 'express';
 import cors from 'cors';
 import morgan from 'morgan';
-
+import characterRoutes from './routes/character.route';
 export class Server implements IServer {
   private server: Application;
 
@@ -23,7 +23,7 @@ export class Server implements IServer {
     this.server.use(express.urlencoded({ extended: false }));
   }
   routes() {
-
+    this.server.use('/api', characterRoutes);
   }
   listen() {
     this.server.listen(this.server.get('port'));

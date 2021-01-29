@@ -1,40 +1,41 @@
-# skeleton to work with typescript and jest - TDD using mongodb
+# Shingeki no kyojin universe API
+
+### API
+This project is deployed in https://apisnk.com
+
+### Documentation
+
+You can find the documentation of the endpoints in https://apisnk/docs.com
 
 ### Tecnologies
-- Languages: `NodeJS` and `TypeScript` and `Docker`
+- Languages: `NodeJS` and `TypeScript`
 - Framework: `Express`
 - Database: `Mongodb`
 
 ### Initialize
+To start this project you must have Node, npm, docker and mongodb client on your system
+
 ```sh
-npm install # install all the dependecies
+# Install all dependecies
+npm install
 
-copy .env.example .env # create enviroments
-```
-
-### Test
-```sh
-npm run tw #run test in watch mode with flag ----detectOpenHandles
-
-npm run tests #run all tests with flag ----detectOpenHandles
-
-npm run testsc #run all coverage test
+# Create enviroments
+create .env file
+copy variables in .env.example
+paste the variables in .env file
 ```
 
 ### Development
+Start application in mode development
 ```sh
-npm run dev # start application in mode development
+npm run dev
 ```
 
 ### Production
 ```sh
-npm run build #build application in mode production
+#build application in mode production
+npm run build
 
-npm run start #run application in production
-```
-
-### Docker
-```sh
-docker-compose up -d #deploy a container in production mode
-docker-compose down  #stop and delete containers
+#run application in production
+npm run start 
 ```
