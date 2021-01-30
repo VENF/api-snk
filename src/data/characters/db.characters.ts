@@ -11,6 +11,7 @@ import '../../db';
 
 export const insertDataCharacters = async () => {
   try {
+    await Character.deleteMany({});
     await Character.insertMany([Eren, Mikasa])
     await mongoose.disconnect();
   } catch (error) {

@@ -13,12 +13,14 @@ services:
             - "4000:4000"
         networks: 
             - app-net
+        command: "./wait-for.sh mongo:27017 -- node ./dist/data/index.js"
+        command: "npm run start"
     mongo:
         container_name: mongo
         image: mongo:4.2.6-bionic
         restart: unless-stopped
         volumes: 
-            - "~/mongo-db-volum:/data/db"
+            - "/home/victor/Escritorio/snk-db:/data/db"
         networks: 
             - app-net
 networks: 
