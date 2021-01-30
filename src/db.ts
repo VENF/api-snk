@@ -13,7 +13,6 @@ const url = `mongodb://${MONGO_HOSTNAME}:${MONGO_PORT}/${MONGO_DB}`;
 if (process.env.NODE_ENV === 'dev') {
   mongoose.connect(config.MONGODB_URI, options);
   const connection = mongoose.connection;
-
   connection.once('open', (_) => {
     console.log('db is connected');
   });
