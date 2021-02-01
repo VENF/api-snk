@@ -1,4 +1,5 @@
 import { Request, Response } from 'express';
+import { CSearchCharacter } from '../clasess/character/search';
 import Character from '../models/characters.model';
 
 export const characters = async (req: Request, res: Response): Promise<Response> => {
@@ -12,4 +13,10 @@ export const characters = async (req: Request, res: Response): Promise<Response>
       error: {}
     });
   }
+};
+
+export const character = async (req: Request, res: Response): Promise<Response> => {
+  const { field, value, sub } = req.params;
+  const data = await new CSearchCharacter(field, value, parseInt(sub)).search();
+  return res.status(data.status).json(data);
 };
