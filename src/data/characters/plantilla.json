@@ -1,0 +1,86 @@
+{
+  "name": {
+    "japones":"",
+    "romaji": "",
+    "principal": ""
+  },
+  "debut": {
+    "manga": "",
+    "anime": ""
+  },
+  "information": {
+    "birth": "",
+    "age": [""],
+    "gender": "",
+    "species": "",
+    "state": "",
+    "height": [""],
+    "weight": "",
+    "classification": "",
+    "occupation": "",
+    "affiliation": [""]
+  },
+  "rank": {
+    "grade": ""
+  },
+  "statistics": {
+    "battleskill": 0,
+    "initiative": 0,
+    "strategy": 0,
+    "teamwork": 0,
+    "distinguished": {
+      "type":"",
+      "range": 0
+    }
+  },
+  "family": {
+    "jaeger": [
+      {
+        "name": "",
+        "state": "",
+        "type": ""
+      },
+      {
+        "name": "",
+        "state": "",
+        "type": ""
+      },
+      {
+        "name": "",
+        "state": "",
+        "type": ""
+      },
+      {
+        "name": "",
+        "state": "",
+        "type": ""
+      },
+      {
+        "name": "",
+        "state": "",
+        "type": ""
+      },
+      {
+        "name": "",
+        "state": "",
+        "type": ""
+      }
+    ]
+  },
+  "weapons": [
+    "",
+    ""
+  ],
+  "titans":[
+    {
+      "name":"",
+      "bearer": "",
+      "predecessor": "",
+      "Successor": ""
+    }
+  ],
+  "biography": "",
+  "quotes": [
+    
+  ]
+}
