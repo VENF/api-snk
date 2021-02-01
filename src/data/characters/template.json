@@ -34,38 +34,7 @@
     }
   },
   "family": {
-    "jaeger": [
-      {
-        "name": "",
-        "state": "",
-        "type": ""
-      },
-      {
-        "name": "",
-        "state": "",
-        "type": ""
-      },
-      {
-        "name": "",
-        "state": "",
-        "type": ""
-      },
-      {
-        "name": "",
-        "state": "",
-        "type": ""
-      },
-      {
-        "name": "",
-        "state": "",
-        "type": ""
-      },
-      {
-        "name": "",
-        "state": "",
-        "type": ""
-      }
-    ]
+    
   },
   "weapons": [
     "",
