@@ -1,0 +1,106 @@
+{
+  "name": {
+    "japones":"リヴァイ・アッカーマン",
+    "romaji": "Rivai Akkāman",
+    "principal": "Levi Ackerman",
+    "nickname":["El soldado más fuerte de la humanidad"]
+  },
+  "debut": {
+    "manga": "Capitulo Especial: 1",
+    "anime": "Capitulo 4"
+  },
+  "information": {
+    "birth": "25 de diciembre",
+    "age": ["+30"],
+    "gender": "Masculono",
+    "species": "Humano",
+    "state": "Vivo",
+    "height": "160 cm",
+    "weight": "65 kg",
+    "occupation": ["Criminal (anteriormente)", "Soldado (Actualmente)"],
+    "affiliation": ["Cuerpo de Exploración"]
+  },
+  "rank": {
+    "grade": "A++"
+  },
+  "statistics": {
+    "battleskill": 11,
+    "initiative": 10,
+    "strategy": 9,
+    "teamwork": 7,
+    "distinguished": {
+      "type":"Cleaning",
+      "range": 10
+    }
+  },
+  "family": {
+    "ackerman": [
+      {
+        "name": "Kuchel Ackerman",
+        "state": "Fallecida",
+        "type": "Madre"
+      },
+      {
+        "name": "Kenny Ackerman",
+        "state": "Fallecido",
+        "type": "Tio"
+      },
+      {
+        "name": "Abuelo Ackerman",
+        "state": "Fallecido",
+        "type": "Bisabuelo"
+      },
+      {
+        "name": "Sr. Ackerman",
+        "state": "Fallecido",
+        "type": "Pariente lejano"
+      },
+      {
+        "name": "Mikasa Ackerman",
+        "state": "Viva",
+        "type": "Pariente lejano"
+      }
+    ]
+  },
+  "weapons": [
+    "Equipo de Maniobras Tridimensionales",
+    "Cuchillas",
+    "Lanza Relámpago"
+  ],
+  "biography": "Levi Ackerman (リヴァイ・アッカーマン Rivai Akkāman?), también referido como Capitán Levi (リヴァイ兵長 Rivai Heichō?), es el capitán de escuadrón (兵士長 Heishichō?, literalmente líder de los soldados) del escuadrón de operaciones especiales del Cuerpo de Exploración, y es conocido como el soldado más fuerte de la humanidad .",
+  "quotes": [
+    "No se que opción es la correcta. Nunca lo he sabido. Tanto si confías sólo en ti como si lo haces en tus compañeros... Nunca sabes cuál será el resultado",
+    "Estate quietecito... de lo contrario no podré hacerte... un corte limpio",
+    "Tengo sentimientos, que no los demuestre es diferente",
+    "La única manera de unificar, por completo a toda la humanidad es con una amenaza común para todos",
+    "Elige y atente a las consecuencias",
+    "Con el cuerpo o no, un muerto es un muerto. No va a cambiar nada",
+    "Somos unos excéntricos. Hemos visto demasiado, llevamos mucho peso a nuestros hombros. Así es como ha sido. Esto es lo que somos",
+    "Las personas normales no se preocupan todos los días por si su cuello no acabará en una horca. Y con eso estoy diciendo que no somos personas normales",
+    "¿Acaso todos creen que la persona que esta hoy a su lado estará allí mañana?",
+    "Nadie puede decir cuál es la elección idónea. Sólo elige la que más te guste",
+    "¿Vas a pedir que tus hombres y los habitantes de esta ciudad mueran y sean derrotados, o vas a luchar contra los que tienen mayor poder en este mundo?",
+    " Lo que cambia nuestro pequeño mundo es la esperanza y la desesperación. ¿Quién lo decidirá?¿De quién es la tarea de decidir? Y...¿En quién confiarás?",
+    "Pero el aire que olí fuera de los muros era distinto. A pesar de que el mundo exterior es como el infierno, hay una libertad allí que no se puede comparar con los muros que nos rodean",
+    "A lo que más debemos temer es a la posibilidad de que nuestros ojos se claves fuera de las murallas, y que hayamos fallado en ver la espada que nos apuñala por la espalda",
+    "Lo único que se nos permite hacer, es creer que no vamos a lamentar la elección que hemos hecho",
+    "¿Tu cabeza es tan hueca como la punta de una pistola? Al parecer, no tienes idea de lo que está sucediendo",
+    "¿Cuál es su trabajo? Desde luego, no dejarse llevar por el nerviosismo",
+    "No importa cuanto traten de forzarlo a detenerse. Nadie puede detener su fuerza de voluntad. Escoge... Confiar en ti mismo... O confiar en mí, ellos y en las tropas de explotación. Yo no se nada con certeza. Siempre ha sido así. Por mucho que confío en mis fuerzas y en la decisión de mis compañeros... Nadie sabe el resultado. Así que lo que nos queda... es tomar una decisión de la cual no nos arrepentiremos.",
+    "El entusiasmo es algo bueno, pero no te olvides de proteger tu vida",
+    "Ya sea que lleven el cuerpo o no, el hecho de que está muerto no cambiará. Nada puede cambiar esa realidad.",
+    "Debes de asegúrate de tomar una decisión por la que luego no te arrepientas",
+    " Sin importar cuánto intentamos contenerlo, sin importar en que jaula lo encerremos, nos será imposible domar su mente.",
+    "El dolor y la disciplina van de la mano",
+    "Si vas a morir de todos modos, al menos inténtalo",
+    "Puedo confiar en mis habilidades, o las elecciones de mis compañeros. Pero absolutamente nadie sabe el resultado.",
+    "Cuando se trata de disciplinar a alguien crear dolor es la manera más efectiva",
+    "En esta apuesta, fallar no es una opción",
+    "Cuanto más tardemos en hacer nuestra gran huida, más seremos conducidos a un rincón",
+    "¿Crees que los cadáveres estarán tristes por no ser llevados?",
+    "¿Qué es más importante, satisfacer tu deseo de venganza o tu amigo?",
+    "Diste todo por nosotros y lo seguirás haciendo, porque tu voluntad vivirá conmigo",
+    "Es mejor si escoges la opción por ti mismo, así no te lamentarás después",
+    "Abandona tu sueño y muere"
+  ]
+}

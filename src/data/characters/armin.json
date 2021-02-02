@@ -1,0 +1,69 @@
+{
+  "name": {
+    "japones": "アルミン・アルレルト",
+    "romaji": "Arumin Arureruto",
+    "principal": "Armin Arlert",
+    "nickname": ["Titán Colosal"]
+  },
+  "debut": {
+    "manga": "Capítulo 1",
+    "anime": "Capítulo 1"
+  },
+  "information": {
+    "birth": "3 de noviembre",
+    "age": ["15 (año 850)","16 (año 851)","19 (año 854)"],
+    "gender": "Masculino",
+    "species": "Humano/Titán Cambiante",
+    "state": "Vivo",
+    "height": ["163 cm (año 850)", "168 cm (año 854)", "60 m (forma de titán)"],
+    "weight": "55 kg",
+    "occupation": "Soldado de élite",
+    "affiliation": ["Cuerpo de exploracion", "Tropa de reclutas 104 (anteriormente)"]
+  },
+  "rank": {
+    "grade": "A+"
+  },
+  "statistics": {
+    "battleskill": 2,
+    "initiative": 6,
+    "strategy": 10,
+    "teamwork": 8,
+    "distinguished": {
+      "type":"Judgment",
+      "range": 10
+    }
+  },
+  "family": {
+    "arlert": [
+      {
+        "name": "Desconocido",
+        "state": "Fallecido",
+        "type": "Padre"
+      },
+      {
+        "name": "Desconocido",
+        "state": "Fallecido",
+        "type": "Abuelo"
+      }
+    ]
+  },
+  "weapons": [
+    "Equipo de Maniobras Tridimensional",
+    "Cuchillas"
+  ],
+  "titans":[
+    {
+      "name":"Titán Colosal",
+      "bearer": "Armin Arlert (850-actual)",
+      "predecessor": "Bertolt Hoover (843-850)",
+      "Successor": "Nadie"
+    }
+  ],
+  "biography": "Armin Arlert (アルミン・アルレルト Arumin Arureruto?) es el actual comandante del Cuerpo de Exploración y un amigo de la infancia de Eren Jaeger y Mikasa Ackerman. Aunque físicamente es más débil que el resto de sus compañeros, demuestra una gran inteligencia a través de su capacidad para la formación de estrategias. Durante la batalla para retomar el Muro María, Armin es quemado casi hasta la muerte por el vapor expelido por Bertolt Hoover en su forma de Titán Colosal. Para salvarlo, fue necesario inyectarlo con el suero y hacerlo comer al propio Bertolt, convirtiéndose en el proceso, en un Titán Cambiante.",
+  "quotes": [
+    "No me importa morir si muero siendo útil.",
+    "Puede que no haya vivido mucho tiempo, pero de una cosa estoy seguro. Si existe un tipo de persona capaz de cambiar algo, esta persona... es alguien... ¡capaz de sacrificar algo que ama! Es alguien que para enfrentarse a un monstruo es capaz de abandonar su propia humanidad. ¡Una persona que no es capaz de sacrificar algo no puede ser capaz de cambiar nada!",
+    "¡Yo soy un soldado que juró dedicar su corazón y alma a la restauración de la humanidad, si mi vida ayudará a ese propósito, la entregaré sin dudarlo!",
+    "En verdad no sé cómo, pero cuando pienso en la libertad que perdimos... es en ese momento cuando una fuerza surge... No sé por qué, pero cada vez que pienso en el mundo exterior vuelvo a tener coraje una y otra vez..."
+  ]
+}
