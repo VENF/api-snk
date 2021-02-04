@@ -1,27 +1,27 @@
 import styled from '@emotion/styled';
 import { dark } from '../../styles/global';
-export const Container = styled.div({
+export const Container = styled.div(({ exp }) => ({
   height: '100vh',
   display: 'grid',
-  gridTemplateColumns: '.4fr 2fr',
-  '@media (max-width: 700px)': {
-    gridTemplateColumns: '1fr' 
+  gridTemplateColumns: `${exp ? '1fr' : '.4fr 2fr'}`,
+  '@media (max-width: 900px)': {
+    gridTemplateColumns: '1fr'
   }
-});
+}));
 
-export const ContainerSideBar = styled.div({
+export const ContainerSideBar = styled.div(({ exp }) => ({
   height: '100%',
-  position: 'relative',
   background: dark,
-  '@media (max-width: 700px)': {
-    position: 'absolute',
-    top: '0px',
-    left: '0px',
-    width: '150px'
+  position: `${exp ? 'absolute' : 'relative'}`,
+  '@media (max-width: 900px)': {
+    position: 'absolute !important',
+    background: 'transparent',
+    width: '250px'
   }
-});
+}));
 
 export const ContainerPages = styled.div({
   height: '100%',
-  background: dark
+  background: dark,
+  paddingTop: '2.5em'
 });
