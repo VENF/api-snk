@@ -19,3 +19,8 @@ interface ISettignsData {
   uri: string;
   options: any; //ConnectionOptions in mongoose;
 }
+
+/* character */
+interface ISCharacter {
+  search(): void;
+}
