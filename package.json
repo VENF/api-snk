@@ -22,7 +22,7 @@
     "node",
     "json"
   ],
-  "author": "Victor Naranjo",
+  "author": "Victor Naranjo & Andres Arevalo",
   "license": "MIT",
   "devDependencies": {
     "@types/cors": "^2.8.6",

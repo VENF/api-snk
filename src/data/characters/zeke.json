@@ -1,0 +1,155 @@
+{
+  "name": {
+    "japones":"ジーク・イェーガー",
+    "romaji": "Jīku Yēgā",
+    "principal": "Zeke Jaeger",
+    "apodo": ["Titán Bestia", "Bestia", "El chico maravilla "]
+  },
+  "debut": {
+    "manga": "capitulo 34",
+    "anime": "capitulo 26"
+  },
+  "information": {
+    "birth": "1 de agosto",
+    "age": ["7 (año 832)","25 (año 850)","26 (año 851)", "29 (año 854)["],
+    "gender": "Masculino",
+    "species": "Humano/Titán Cambiante",
+    "state": "muerto",
+    "height": ["183 cm (forma humana)", "17 m (forma de titán)"],
+    "weight": "92 kg",
+    "occupation": "Guerrero",
+    "affiliation": ["Restauradores de Eldia (anteriormente)", "Guerreros (anteriormente)", "Voluntarios Anti-Marleyanos"]
+  },
+  "rank": {
+    "grade": "Jefe de Guerra"
+  },
+  "statistics": {
+    "Strength": 7,
+    "Speed": 5,
+    "Cruelty": 8,
+    "Intelligence": 11,
+    "distinguished": {
+      "type":"Ferocity",
+      "range": 10
+    }
+  },
+  "family": {
+    "fritz" : [
+      {
+        "name": "Ymir Fritz",
+        "state": "fallecida",
+        "type": "ancestro"
+      },
+      {
+        "name": "Dina Jaeger",
+        "state": "fallecida",
+        "type": "madre"
+      },
+      {
+        "name": "Dina Jaeger",
+        "state": "fallecida",
+        "type": "madre"
+      }
+    ],
+    "jaeger": [
+      {
+        "name":"Sr. Jaeger",
+        "state":"fallecido",
+        "type":"abuelo"
+      },
+      {
+        "name":"Sra. Jaeger",
+        "state":"fallecida",
+        "type":"abuela"
+      },
+      {
+        "name":"Grisha Jaeger",
+        "state":"fallecido",
+        "type":"padre"
+      },
+      {
+        "name":"Faye Jaeger",
+        "state":"fallecida",
+        "type":"tia"
+      },
+      {
+        "name":"Carla Jaeger",
+        "state":"fallecida",
+        "type":"madrastra"
+      },
+      {
+        "name":"Eren Jaeger",
+        "state":"vivo",
+        "type":"medio hermano"
+      }
+    ],
+    "reiss": [
+      {
+        "name":"Karl Fritz",
+        "state":"fallecido",
+        "type":"pariente lejano"
+      },
+      {
+        "name":"Padre de Rod y Uri",
+        "state":"fallecido",
+        "type":"pariente lejano"
+      },
+      {
+        "name":"Rod Reiss",
+        "state":"fallecido",
+        "type":"pariente lejano"
+      },
+      {
+        "name":"Uri Reiss",
+        "state":"fallecido",
+        "type":"pariente lejano"
+      },
+      {
+        "name":"Frieda Reiss",
+        "state":"fallecida",
+        "type":"pariente lejano"
+      },
+      {
+        "name":"Ulklin Reiss",
+        "state":"fallecido",
+        "type":"pariente lejano"
+      },
+      {
+        "name":"Dirk Reiss",
+        "state":"fallecido",
+        "type":"pariente lejano"
+      },
+      {
+        "name":"Abel Reiss",
+        "state":"fallecida",
+        "type":"pariente lejano"
+      },
+      {
+        "name":"Florian Reiss",
+        "state":"fallecida",
+        "type":"pariente lejano"
+      },
+      {
+        "name":"Historia Reiss",
+        "state":"viva",
+        "type":"pariente lejano"
+      }
+    ]
+  },
+  "titans":[
+    {
+      "name":"Titán Bestia",
+      "bearer": "Zeke Jaeger (842-actual)",
+      "predecessor": "Desconocido",
+      "Successor": "Nadie"
+    }
+  ],
+  "biography": "Zeke Jaeger (ジーク・イェーガー Jīku Yēgā?) es el actual poseedor del poder del Titán Bestia (獣の巨人 Kemono no Kyojin?) y fue, anteriormente, el Jefe de Guerra (戦士帳 Senshi-chō?) de los guerreros eldianos que sirven al gobierno de Marley con el propósito de recuperar el poder del Titán Fundador y eliminar a los habitantes de las murallas.",
+  "note":"Zeke posee numerosos rasgos anormales en comparación a otros Titanes Cambiantes. El más destacado es la capacidad de hablar el lenguaje humano con fluidez y sin problemas en su forma de titán, casualmente hablando o dando órdenes a otros titanes.",
+  "quotes": [
+    "Hmm... yo pensé que hablábamos el mismo idioma... pero supongo que estás demasiado aterrorizado como para hablar.",
+    "¡Pero qué cosa más interesante han inventado, eh!",
+    "Es una tragedia que el rey Reiss les haya quitado las memorias del mundo. Debido a ello, cometen los mismos errores una y otra vez",
+    "Nuestra única salvación es la eutanasia de Eldia"
+  ]
+}

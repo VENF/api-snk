@@ -1,0 +1,74 @@
+{
+  "name": {
+    "japones":"ライナー・ブラウン",
+    "romaji": "Rainā Buraun",
+    "principal": "Reiner Braun",
+    "apodo": ["Titán Acorazado", "Traidor"]
+  },
+  "debut": {
+    "manga": "capitulo 2",
+    "anime": "capitulo 2"
+  },
+  "information": {
+    "birth": "1 de agosto",
+    "age": ["17 (año 850)", "18 (año 851)", "21 (año 854)"],
+    "gender": "masculino",
+    "species": "Humano/Titán Cambiante",
+    "state": "vivo",
+    "height": ["185 cm (año 850)", "188 cm (año 854)", "5 m (forma de titán)"],
+    "weight": ["95 kg (año 850)", "83 kg (año 854)["],
+    "classification": "2º",
+    "occupation": ["Soldado (anteriormente)", "Guerrero"],
+    "affiliation": ["Cuerpo de Exploración (anteriormente)", "Tropa de Reclutas 104 (anteriormente)", "Guerreros"]
+  },
+  "rank": {
+    "grade": "A+"
+  },
+  "statistics": {
+    "battleskill": 9,
+    "initiative": 7,
+    "strategy": 7,
+    "teamwork": 10,
+    "distinguished": {
+      "type":"Camaraderie",
+      "range": 10
+    }
+  },
+  "family": {
+    "braun": [
+      {
+      "name": "Desconocido",
+      "state": "Desconocido",
+      "type": "Padre"
+    },
+    {
+      "name": "Karina Braun",
+      "state": "viva",
+      "type": "madre"
+    },
+    {
+      "name": "Gabi Braun",
+      "state": "viva",
+      "type": "Prima"
+    }
+  ]
+  },
+  "weapons": [
+    "Equipo de Maniobras Tridimensionales",
+    "Cuchillas"
+  ],
+  "titans":[
+    {
+      "name":"Titán Acorazado",
+      "bearer": "Reiner Braun (843 - actual)",
+      "predecessor": "Desconocido",
+      "Successor": "Nadie"
+    }
+  ],
+  "biography": "Reiner Braun (ライナー・ブラウン Rainā Buraun?) es un graduado de la Tropa de Reclutas del    Ciclo Nº104, segundo del top 10 de su clase y un ex-miembro del Cuerpo de Exploración.Junto a Bertolt Hoover y Annie Leonhart, posee la habilidad de transformarse en un titán y sirve a una unidad de soldados de Marley conocidos como guerreros. En el año 845, se infiltró en las murallas con la misión de encontrar y tomar el poder del Titán Fundador.",
+  "note":"Reiner Braun, posee una gran fortaleza mental y física, sus compañeros confían profundamente en él.",
+  "quotes": [
+    "Hay Veces que no podemos dar marcha atrás, no importa cuan desesperada sea la situación",
+    "Un Soldado No Puede Retroceder"
+  ]
+}
