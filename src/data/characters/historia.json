@@ -1,0 +1,119 @@
+{
+  "name": {
+    "japones":"ヒストリア・レイス",
+    "romaji": "Hisutoria Reisu",
+    "principal": "Historia Reiss",
+    "apodo": ["Krista Lenz", "Diosa", "Reina Historia "]
+  },
+  "debut": {
+    "manga": "capitulo 2",
+    "anime": "capitulo 2"
+  },
+  "information": {
+    "birth": "15 de enero",
+    "age": ["15 (año 850)", "16 (año 851)", "19 (año 854)["],
+    "gender": "femenino",
+    "species": "Humana",
+    "state": "viva",
+    "height": ["145 cm"],
+    "weight": "42 kg",
+    "classification": "10°",
+    "occupation": ["Soldado de élite (anteriormente)", "Reina"],
+    "affiliation": ["Cuerpo de Exploración (anteriormente)", "Tropa de Reclutas 104 (anteriormente)", "Gobierno Real"]
+  },
+  "rank": {
+    "grade": "B-"
+  },
+  "statistics": {
+    "battleskill": 6,
+    "initiative": 6,
+    "strategy": 4,
+    "teamwork": 8,
+    "distinguished": {
+      "type":"Goodness",
+      "range": 10
+    }
+  },
+  "family": {
+    "fritz": [
+        {
+        "name": "Ymir Fritz",
+        "state": "fallecida",
+        "type": "ancestro"
+      },
+      {
+        "name":"Karl Fritz",
+        "state":"fallecida",
+        "type":"ancestro"
+      } 
+    ],
+    "jaeger":[
+      {
+      "name": "Dina Jaeger",
+      "state": "fallecida",
+      "type": "pariente lejano"
+    },
+    {
+      "name": "Zeke Jaeger",
+      "state": "fallecido",
+      "type": "pariente lejano"
+    }
+  ],
+  "reiss": [
+    {
+      "name":"Desconocido",
+      "state":"fallecido",
+      "type":"Abuelo"
+    },
+    {
+      "name":"Rod Reiss",
+      "state":"fallecido",
+      "type":"padre"
+    },
+    {
+      "name":"Sra. Reiss",
+      "state":"fallecida",
+      "type":"madrastra"
+    },
+    {
+      "name":"Uri Reiss",
+      "state":"fallecido",
+      "type":"tio"
+    },
+    {
+      "name":"Frieda Reiss",
+      "state":"fallecida",
+      "type":"medio hermana"
+    },
+    {
+      "name":"Ulklin Reiss",
+      "state":"fallecido",
+      "type":"medio hermano"
+    },
+    {
+      "name":"Dirk Reiss",
+      "state":"fallecido",
+      "type":"medio hermano"
+    },
+    {
+      "name":"Abel Reiss",
+      "state":"fallecida",
+      "type":"medio hermana"
+    },
+    {
+      "name":"Desconocido",
+      "state":"vivo",
+      "type":"hijo o hija"
+    }
+  ]
+  },
+  "weapons": [
+    "Equipo de Maniobras Tridimensional",
+    "Cuchillas"
+  ],
+  "biography": "La Reina Historia Reiss (ヒストリア・レイス Hisutoria Reisu?) es la hija ilegítima del noble Rod Reiss, la última miembro de la familia real Reiss y la actual gobernante de las murallas. Se crió aislada de la familia Reiss, en una de sus fincas, hasta la caída de la Muralla María. Su madre fue asesinada delante de ella, y fue obligada a renunciar a su nombre, asumiendo el alias de Krista Lenz (クリスタ・レンズ Kurisuta Renzu?).",
+  "note":"Historia fue la última de los 10 primeros, por lo que su habilidad con el equipo de maniobras tridimensional es superior a la de un soldado promedio, aunque inferior al resto de sus compañeros que clasificaron en puestos más altos.",
+  "quotes": [
+    "No puedo ser una buena persona, ni tampoco quiero ser una diosa. Pero si hay alguien ahí fuera, llorando porque nadie le necesita... Yo iré a decirle que eso no es cierto. ¡Sin importar donde esté o quién pueda ser, yo iré a ayudarle!"
+  ]
+}
