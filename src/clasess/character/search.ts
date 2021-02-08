@@ -21,11 +21,6 @@ const fieldsSearch = [
   },
   { rank: ['grade'] }
 ];
-interface QueryTypes {
-  name: object;
-  otra: Array<string>;
-}
-
 export class CSearchCharacter implements ISCharacter {
   private response: TResponse;
   constructor(
